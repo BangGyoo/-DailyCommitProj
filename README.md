@@ -1,12 +1,10 @@
 # -DailyCommitProj
 
 * [NAVER CAMPUS HACKDAY WINTER](https://github.com/NAVER-CAMPUS-HACKDAY/common/issues/19)의 예제(아이디어)를 참고하여, 프로젝트 개발 수행   
+
+* vue cli(vuex + router + vuex + vuetify)로 SPA구성, backend(Spring boot, my-batis)   
    
-* vue cli(vuex + router + vuex + vuetify)로 SPA구성 후 backend개발을 해나갈 예정    
-   
-* 기본적인 탬플릿은 잡아놓았다. github api + rest-api로 backend 구현하자.   
-   
-* back-end는 spring-boot + my-batis로
+* 프론트 앤드 , 백앤드 기본 탬플릿 완성 ( 프론트에서 github oauth인증 후 엑세스 토큰 db에 저장하자. )   
 
 ### reference
    
